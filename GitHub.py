@@ -5,3 +5,5 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> 
 >>> print("COP2002 Spring 2024")
 COP2002 Spring 2024
+
+print("I'm understanding how to use GitHub to keep track of changes!")
